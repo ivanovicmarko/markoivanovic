@@ -1,4 +1,8 @@
-Privacy Policy
+---
+permalink: /privacy/
+---
+
+**Privacy Policy**
 
 Last updated: August 14, 2026
 
